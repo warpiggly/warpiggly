@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=900&color=7C5CFF&center=true&vCenter=true&width=640&lines=David+Salazar+Saldarriaga;Future+Data+Scientist+%26+AI+Engineer;Futuro+Cient%C3%ADfico+de+Datos+%26+Ingeniero+en+IA;Musician+%C2%B7+Artist+%C2%B7+Builder" alt="Typing banner" />
+<img src="assets/banner.svg" width="100%" alt="David Salazar Saldarriaga — Arriero's Wealth, DwarfVault and Dragon Audio" />
 
-**Data Science · Artificial Intelligence · Music**<br>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=7C5CFF&center=true&vCenter=true&width=600&lines=Future+Data+Scientist+%26+AI+Engineer;Futuro+Cient%C3%ADfico+de+Datos+%26+Ingeniero+en+IA;Producer+%C2%B7+EDM+%C2%B7+Deep+%26+Afro+House" alt="Typing roles" />
+
 <sub>🇨🇴 Medellín, Colombia · Programming technician (CESDE) · Data Science & AI learning path</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-s-286095129/)
